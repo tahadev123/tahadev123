@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./myLogo.png" alt="Taha Dev Logo" />
+  <img src="./myLogo.png" alt="Taha Dev Logo" width="100%" />
 </div>
 
 <div align='center'>
