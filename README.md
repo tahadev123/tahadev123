@@ -17,4 +17,4 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/taha_developer1388)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Taha_dehghan123)
-[![Email](https://img.shields.io/badge/Email-%4889F4.svg?style=for-the-badge&logo=gmail&logoColor=white)](taha.developer864@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%4889F4.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taha.developer864@gmail.com)
